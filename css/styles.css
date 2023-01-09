@@ -704,3 +704,40 @@ fill: #F4F4FD;
     width: 8px;
     height: 8px;
 }
+.modal-form {
+    padding: 24px;
+}
+
+.field-name {
+    position: relative;
+}
+.icon-namemodal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 13px;
+    height: 13px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 16px;
+}
+.field-phone {
+    position: relative;
+}
+.icon-phonemodal {
+    position: absolute;
+    width: 18px;
+    height: 24px;
+    top: 0;
+    left: 0;
+}
+.field-email {
+    position: relative;
+}
+.icon-envelopmodal {
+    position: absolute;
+    width: 18px;
+    height: 24px;
+    top: 0;
+    left: 0;
+}
