@@ -708,7 +708,7 @@ fill: #F4F4FD;
     padding: 24px;
 }
 
-.field-name {
+.position-name {
     position: relative;
 }
 .icon-namemodal {
@@ -721,9 +721,8 @@ fill: #F4F4FD;
     margin-bottom: 8px;
     margin-left: 16px;
 }
-.field-phone {
-    position: relative;
-}
+
+
 .icon-phonemodal {
     position: absolute;
     width: 18px;
@@ -731,9 +730,7 @@ fill: #F4F4FD;
     top: 0;
     left: 0;
 }
-.field-email {
-    position: relative;
-}
+
 .icon-envelopmodal {
     position: absolute;
     width: 18px;
